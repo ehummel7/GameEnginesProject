@@ -1,0 +1,18 @@
+{
+	"Scenes": {
+		"Scene": [
+			{
+				"id": 1,
+				"SceneName": {
+					"name": "StartScene"
+				}
+			},
+			{
+				"id": 2,
+				"SceneName": {
+					"name":  "GameScene"
+				}
+			}
+		]
+	}
+}
